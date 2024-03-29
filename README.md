@@ -9,6 +9,12 @@ This Java application serves as a basic yet robust calculator capable of perform
 - **User Input**: Allows users to input two operands and choose an arithmetic operator.
 - **Interactive Interface**: Uses the console for input and output, providing a straightforward user experience.
 
+## Java-Specific Features
+- **Java Scanner**: For reading user input.
+- **Double Data Type**: To handle numerical operations.
+- **Switch Expression**: Modern Java feature for cleaner conditional logic.
+- **String Handling**: For operator input and validation.
+
 ## Usage
 1. **Start the Application**: Run the `Main` class to start the application.
 2. **Enter Operands**: When prompted, enter two numerical values. These will act as the operands for the calculation.
